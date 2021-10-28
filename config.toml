@@ -28,12 +28,12 @@ metaDataFormat= "yaml"
 [params.main]
   enabled = true
   enableKatex = true
-  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
+  metaKeywords = "vaylon, vaylonfernandes, vaylon fernandes, vaylon fernandes portfolio, vaylon parnell fernandes, vaylon parnell, vaylon parnell fernandes portfolio"
   headerTitle = "Vaylon Fernandes"
-  copyright = "© 2021 Vaylon Fernandes.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "vaylonfernandes"
-  img = "https://ik.imagekit.io/w40223ez40d/tr:w-0.5,h-0.45/vaylon_fernandes_oeVv2f9za.png"
-  img_title = "Vaylon Fernandes"
+  copyright = "© 2021 Vaylon Fernandes.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>. Theme-<a href=\"https://gitlab.com/avron/gruvhugo\">Gruvhugo</a>"
+  name = "Vaylon Parnell Fernandes"
+  img = "https://ik.imagekit.io/w40223ez40d/tr:w-0.1/vaylon_fernandes_oeVv2f9za.png"
+  img_title = "Vaylon Parnell Fernandes"
   icon = "https://ik.imagekit.io/w40223ez40d/favicon-32x32_KnT7jkUdI.png"
   # quote = "A nice quote that you like that describes the beautiful person you are."
   description= "Hey there! I'm Vaylon Fernandes. I'm on my journey to be a python developer. I’m currently learning Flask. Want to talk about python, programing, tech stuff or just anything? Lets get in touch!"
