@@ -66,11 +66,14 @@ metaDataFormat= "yaml"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
+    identifier = "Portfolio"
     name       = "Portfolio"
     url = "https://portfolio.vaylonfernandes.codes"
-
-  
+  [[menu.main]]
+    identifier = "Resume"
+    name       = "Resume"
+    url  = "/files/vaylon_fernandes_resume.pdf"
+    
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]
