@@ -73,7 +73,10 @@ metaDataFormat= "yaml"
     identifier = "Resume"
     name       = "Resume"
     url  = "/files/vaylon_fernandes_resume.pdf"
-    
+  [[menu.main]]
+    identifier = "Github"
+    name       = "Github"
+    url  = "https://github.com/vaylon-fernandes"
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]
