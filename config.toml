@@ -70,7 +70,7 @@ metaDataFormat= "yaml"
   [[menu.main]]
     identifier = "Portfolio"
     name       = "Portfolio"
-    url = "https://portfolio.vaylonfernandes.codes"
+    url = "https://portfolio.vaylonfernandes.me"
   [[menu.main]]
     identifier = "Resume"
     name       = "Resume"
