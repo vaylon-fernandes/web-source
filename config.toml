@@ -68,6 +68,10 @@ metaDataFormat= "yaml"
 
 [menu]
   [[menu.main]]
+    identifier = "Blog"
+    name       = "Blog"
+    url = "https://blog.vaylonfernandes.me"
+  [[menu.main]]
     identifier = "Portfolio"
     name       = "Portfolio"
     url = "https://portfolio.vaylonfernandes.me"
