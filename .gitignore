@@ -5,6 +5,7 @@
 ### Hugo ###
 # Generated files by hugo
 /public/
+/--disableFastResnder/
 # /resources/_gen/
 
 # Executable may be added to repository
