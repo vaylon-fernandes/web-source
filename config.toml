@@ -1,6 +1,6 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
-baseurl = "https://vaylonfernandes.me/"
+baseurl = "https://www.vaylonfernandes.me/"
 title = "Vaylon Fernandes"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -32,7 +32,6 @@ metaDataFormat= "yaml"
   headerTitle = "Vaylon Fernandes"
   copyright = "© 2021 Vaylon Fernandes.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>. Theme-<a href=\"https://gitlab.com/avron/gruvhugo\">Gruvhugo</a>"
   name = "Vaylon Parnell Fernandes"
-  # img = "https://ik.imagekit.io/w40223ez40d/tr:w-0.1/vaylon_fernandes_oeVv2f9za.png"
   img = "https://ik.imagekit.io/w40223ez40d/images/vaylonfernandes_ONUFUA0B_.png"
   
   img_title = "Vaylon Parnell Fernandes"
