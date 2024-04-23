@@ -37,7 +37,7 @@ metaDataFormat= "yaml"
   img_title = "Vaylon Parnell Fernandes"
   icon = "https://ik.imagekit.io/w40223ez40d/favicon-32x32_KnT7jkUdI.png"
   # quote = "A nice quote that you like that describes the beautiful person you are."
-  description= "Hey there! I'm Vaylon Fernandes. I'm on my journey to be a software developer. I’m currently pursuing my Post Graduate Diploma in Advanced Computing (PG-DAC) at IACSD. Want to talk about python, programing, tech stuff or just anything? Lets get in touch!"
+  description= "Hey there! I'm Vaylon Fernandes. I’m currently working as a Full Stack a developer. Building my dream one git commit at a time!! Wanna talk about programing, tech stuff or Life?? Lets get in touch!"
   lang = "en"
   licenseUrl = ""
 
@@ -67,17 +67,9 @@ metaDataFormat= "yaml"
 
 [menu]
   [[menu.main]]
-    identifier = "Blog"
-    name       = "Blog"
-    url = "https://blog.vaylonfernandes.me"
-  [[menu.main]]
-    identifier = "Portfolio"
-    name       = "Portfolio"
-    url = "https://vaylonfernandes.me/portfolio/"
-  [[menu.main]]
     identifier = "Resume"
     name       = "Resume"
-    url  = "/files/vaylon_fernandes_resume.pdf"
+    url  = "https://flowcv.com/resume/bf8nereue2"
   [[menu.main]]
     identifier = "Github"
     name       = "Github"
