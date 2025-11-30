@@ -1,6 +1,6 @@
 ## WEB-SOURCE
 
-The source code of my personal website Check it out [here](https://vaylonfernandes.codes)
+The source code of my personal website Check it out [here](https://vaylonfernandes.me)
 
 ## Built with
 
